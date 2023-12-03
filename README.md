@@ -25,6 +25,13 @@
 ### Objective
 The objective of this data analysis project is to gain insights into the business performance of a pizza company by analyzing key indicators from the provided sales data. The analysis will focus on calculating metrics such as Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, and Average Pizzas per Order. Additionally, various charts will be created to visualize trends and patterns in the data.
 
+
+![Power BI REPORT HOME](https://github.com/saadu35/Pizza-Sales-Report/assets/130612554/94b757a9-c3a6-487d-b3df-1d2ba09490ef)
+
+
+
+![POWERBI BW ](https://github.com/saadu35/Pizza-Sales-Report/assets/130612554/9a197486-76ea-4039-b684-2c4dba78c8ec)
+
 ### Data Source 
 **Sales Data:** The primary dataset used for this analysis is the " pizza_sales.csv" file, which contains detailed information about each sale made by the company.
 
