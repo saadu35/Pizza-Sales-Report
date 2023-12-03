@@ -22,7 +22,7 @@
 
 
 ## Project Overview
-### Objective
+---
 The objective of this data analysis project is to gain insights into the business performance of a pizza company by analyzing key indicators from the provided sales data. The analysis will focus on calculating metrics such as Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, and Average Pizzas per Order. Additionally, various charts will be created to visualize trends and patterns in the data.
 
 
@@ -32,14 +32,20 @@ The objective of this data analysis project is to gain insights into the busines
 
 ![POWERBI BW ](https://github.com/saadu35/Pizza-Sales-Report/assets/130612554/9a197486-76ea-4039-b684-2c4dba78c8ec)
 
+---
+
 ### Data Source 
 **Sales Data:** The primary dataset used for this analysis is the " pizza_sales.csv" file, which contains detailed information about each sale made by the company.
+
+---
 
 ### Tools
 
 - **Excel -** Data Cleaning [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
 - **MS SQL Server -** Data Analysis [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - **Power BI -** Creating reports [Download here](https://powerbi.microsoft.com/en-us/downloads/)
+
+---
 
 ### KPI’s Requirements
 
@@ -65,6 +71,7 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 - The average number of pizzas sold per order is calculated by dividing the total number of pizzas sold by the total number of orders.
 - Formula: Average Pizzas per Order = Total Pizzas Sold / Total Orders
 
+---
 ### Charts Requirements
 
 We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts:
@@ -90,6 +97,7 @@ Create a bar chart highlighting the top 5 best-selling pizzas based on revenue, 
 **7. Bottom 5 Best Sellers by Revenue, Total Quantity, and Total Orders:**
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on revenue, total quantity, and total orders. This chart will enable us to identify underperforming or less popular pizza options. 
 
+---
 
 ### Data Analysis
 **1. Data Cleaning (Excel):**
@@ -102,6 +110,8 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on revenue
 
 **3. Visualization (Power BI):**
 - Create the specified charts based on the defined requirements.
+
+  ---
   
 #### Pizza Sales SQL Queries
  ```SQL
@@ -167,6 +177,8 @@ ORDER BY Total_Revenue ASC
 
 ```
 
+---
+
 ### Results/Findings
 **1. Total Revenue:**
 - Identify the overall financial performance of the business.
@@ -186,6 +198,8 @@ ORDER BY Total_Revenue ASC
 **6. Charts:**
 - Visualize daily and monthly trends, sales distribution by category and size, and performance of top/bottom sellers.
 
+---
+
 ### Recommendations
 **1. Top Sellers:**
 - Focus marketing efforts on popular pizzas to maximize revenue.
@@ -198,6 +212,8 @@ ORDER BY Total_Revenue ASC
 
 **4. Peak Hours:**
 - Staff appropriately during peak hours to handle increased order volumes.
+
+---
 
 ### Limitations 
 **1. Data Quality:**
