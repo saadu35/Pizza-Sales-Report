@@ -100,7 +100,7 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on revenue
 ---
 
 ### Data Analysis
-**1. Data Cleaning (Excel):**
+**1. Data Cleaning (Power Query/Excel):**
 - Remove duplicate records.
 - Handle missing values.
 - Check for outliers.
