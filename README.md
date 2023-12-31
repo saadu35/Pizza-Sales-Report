@@ -216,17 +216,8 @@ ORDER BY Total_Revenue ASC
 ---
 
 ### Limitations 
-**1. Data Quality:**
-- The analysis is dependent on the quality of the provided data. Inaccuracies or missing information may impact results.
-
-**2. External Factors:**
-- External factors such as seasonality, economic conditions, or marketing campaigns are not considered in this analysis.
-
-**3. Assumptions:**
-- Certain assumptions may have been made during data cleaning and analysis. These assumptions should be clearly documented.
-
-**4. Future Analysis:**
-- This analysis provides a snapshot of current performance. Future analyses should consider trends over time for more comprehensive insights.
+One major limitation is that it relies solely on the data available in the 'pizza_sales' table, and any insights drawn are contingent upon the accuracy and completeness of this dataset. If there are missing or erroneous entries, the analysis may not accurately represent the true state of pizza sales. Additionally, the scope of the analysis is confined to the provided SQL queries, and it does not take into account external factors such as marketing campaigns, economic conditions, or customer reviews, which could significantly influence pizza sales. Therefore, the findings should be interpreted with caution, and a comprehensive analysis would require incorporating a broader range of data sources and external variables for a more holistic understanding of the factors impacting pizza sales.
 
 ### References
-[Youtube](https://www.youtube.com/@datatutorials1)
+[Youtube](https://www.youtube.com)
+[Stackoverflow](https://stackoverflow.com/)
