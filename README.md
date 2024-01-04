@@ -49,7 +49,7 @@ The objective of this data analysis project is to gain insights into the busines
 
 ### KPI’s Requirements
 
-We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
+I analyze key indicators for our pizza sales data to gain insights into the business performance. Specifically, i want to calculate the following metrics:
 
 **1. Total Revenue:**
 - The sum of the total price of all pizza orders.
@@ -74,7 +74,7 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 ---
 ### Charts Requirements
 
-We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts:
+i would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. i have identified the following requirements for creating charts:
 
 **1. Daily Trend for Total Orders:**
 Create a bar chart that displays the daily trend of orders over a specific time period. This chart will help us identify any patterns or fluctuations in order volumes on a daily basis.
@@ -216,7 +216,7 @@ ORDER BY Total_Revenue ASC
 ---
 
 ### Limitations 
-One major limitation is that it relies solely on the data available in the 'pizza_sales' table, and any insights drawn are contingent upon the accuracy and completeness of this dataset. If there are missing or erroneous entries, the analysis may not accurately represent the true state of pizza sales. Additionally, the scope of the analysis is confined to the provided SQL queries, and it does not take into account external factors such as marketing campaigns, economic conditions, or customer reviews, which could significantly influence pizza sales. Therefore, the findings should be interpreted with caution, and a comprehensive analysis would require incorporating a broader range of data sources and external variables for a more holistic understanding of the factors impacting pizza sales.
+I removed duplicate records to enhance data integrity. However, it's important to acknowledge that the decision to eliminate duplicates introduces a limitation, as the exact impact of these duplicates on the accuracy of calculated metrics and insights remains uncertain. I also handled missing values appropriately, recognizing that the chosen imputation or removal strategies could introduce limitations in influencing the final analysis results. The identification and handling of outliers were crucial steps I took to maintain data quality; nevertheless, the specific criteria for outlier detection and the chosen treatment methods might introduce limitations in how metrics and visualizations are influenced. 
 
 ### References
 [Youtube](https://www.youtube.com)
