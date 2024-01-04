@@ -1,4 +1,4 @@
-# Pizza-Sales-Report
+# Sales-Report
 
 ## Table of Contents
 [Project Overview](#project-overview)
